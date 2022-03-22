@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "extended_mobile_provider",
+    "slug": "extended_mobile_provider",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "extended_mobile_provider"
+}
