@@ -9,6 +9,9 @@
   <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
   <!-- END OPTIONAL PERMISSIONS -->
 
+  <uses-permission tools:node="remove" android:name="android.permission.CALL_LOG" />
+  <uses-permission tools:node="remove" android:name="android.permission.SMS" />
+
   <queries>
     <!-- Support checking for http(s) links via the Linking API -->
     <intent>

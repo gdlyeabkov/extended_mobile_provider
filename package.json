@@ -9,12 +9,18 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@react-navigation/bottom-tabs": "^6.2.0",
+    "@react-navigation/native-stack": "^6.5.1",
     "expo": "~44.0.2",
     "expo-splash-screen": "~0.14.1",
     "expo-status-bar": "~1.2.0",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-native": "0.64.3",
+    "react-native-call-log": "^2.1.2",
+    "react-native-device-info": "^8.5.1",
+    "react-native-paper": "^4.11.2",
+    "react-native-select-dropdown": "^1.8.0",
     "react-native-web": "0.17.1"
   },
   "devDependencies": {
